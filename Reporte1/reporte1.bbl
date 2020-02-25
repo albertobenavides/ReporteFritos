@@ -1,0 +1,38 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[exc()]{excel}
+{File formats that are supported in Excel}.
+\newblock
+  \url{https://support.office.com/en-us/article/file-formats-that-are-supported-in-excel-0943ff2c-6014-4e8d-aaea-b83d51d46247}.
+\newblock Accedido el 24-02-2020.
+
+\bibitem[tot()]{totis}
+{Fritos Totis}.
+\newblock \url{http://www.totis.com.mx/}.
+\newblock Accedido el 24-02-2020.
+
+\bibitem[{Elisa Schaeffer}()]{preparacion}
+{Elisa Schaeffer}.
+\newblock {Práctica 1: Preparación de los datos con \texttt{bash}}.
+\newblock \url{https://elisa.dyndns-web.com/teaching/comp/datasci/p1.html}.
+\newblock Accedido el 24-02-2020.
+
+\bibitem[{Gerrit J.J. van den Burg}()]{csv}
+{Gerrit J.J. van den Burg}.
+\newblock {Handling Messy \texttt{CSV} Files}.
+\newblock
+  \url{https://towardsdatascience.com/handling-messy-csv-files-2ef829aa441d}.
+\newblock Accedido el 24-02-2020.
+
+\bibitem[{Python Software Foundation}()]{datetime}
+{Python Software Foundation}.
+\newblock {\texttt{datetime} -- Basic date and time types}.
+\newblock \url{https://docs.python.org/3.8/library/datetime.html}.
+\newblock Accedido el 24-02-2020.
+
+\end{thebibliography}
